@@ -1,0 +1,4 @@
+- 👋 Cześć, Jestem @JacobTur3ckDev.
+- 👀 I’m interested in FiveM Development.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on many websites.
